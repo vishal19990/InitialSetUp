@@ -1,0 +1,24 @@
+<form [formGroup]="loginForm" (ngSubmit)="login()">
+    <section class="login" *ngIf="!loggedIn">
+        <div class="login__l">
+            <div class="login__footer">Copyright @ 2021. Lorem Ipsum</div>
+        </div>
+        <div class="login__r">
+            <div class="login__cont">
+                <h1 class="login__title">Welcome</h1>
+                <div class="alert alert-danger" *ngIf="error && !loginForm.dirty">
+                  {{errorMessage}}
+                </div>
+                <div class="srm-input-wrap">
+                    <input class="srm-input" type="text" placeholder="User ID" formControlName="username"
+                           [ngClass]="{ 'ng-dirty': submitted && f.username.errors }" pInputText />
+                </div>
+                <div class="srm-input-wrap">
+                    <input class="srm-input" type="password" placeholder="Password" formControlName="password"
+                           [ngClass]="{ 'ng-dirty': submitted && f.password.errors }" pInputText />
+                </div>
+                <button class="srm-button" type="submit" pButton>Login</button>
+            </div>
+        </div>
+    </section>
+</form>

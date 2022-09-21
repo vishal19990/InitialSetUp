@@ -1,0 +1,65 @@
+.dataview {
+  .p-dataview .p-dataview-header {
+    background: transparent;
+
+    padding: 0;
+  }
+  .p-dataview .p-dataview-content {
+    background: transparent;
+    padding: 15px 0;
+
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+      grid-gap: 15px;
+    }
+  }
+
+  .p-dataview-layout-options {
+    display: flex;
+  }
+
+  &__card {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 3px;
+    box-shadow: 1px 1px 5px 2px rgb(0, 0, 0, 0.1);
+
+    .dataview__card-img {
+      position: relative;
+      height: 200px;
+      width: auto;
+      background-color: #eee;
+    }
+
+    .dataview__card-body {
+      padding-top: 10px;
+    }
+    .dataview__card-ttl {
+      font-size: 14px;
+      font-weight: 600;
+      margin-bottom: 5px;
+    }
+
+    .dataview__card-desc {
+      font-size: 12px;
+      font-weight: 400;
+    }
+
+    .dataview__card-actions {
+      display: none;
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      right: 10px;
+
+      justify-content: space-between;
+    }
+
+    &:hover {
+      .dataview__card-actions {
+        display: flex;
+      }
+    }
+  }
+}

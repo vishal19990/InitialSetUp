@@ -1,0 +1,25 @@
+#{$srm}-button{
+    background-color: $c-primary;
+    padding: 10px 30px;
+    height: 45px;
+    border: solid 1px $c-primary;;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+    border-radius: 2px;
+    width: fit-content;
+    cursor: pointer;
+
+    &--bordered{
+       
+        background-color: transparent;
+        color: $c-primary;
+    }
+
+    &--sm{
+        padding: 6px 30px;
+        height: 35px;
+        font-size: 13px;
+    }
+}

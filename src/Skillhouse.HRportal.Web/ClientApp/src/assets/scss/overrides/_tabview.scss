@@ -1,0 +1,28 @@
+.tabview {
+  .p-tabview .p-tabview-nav li .p-tabview-nav-link {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .p-tabview .p-tabview-nav li {
+    margin-right: 20px;
+  }
+
+  .p-tabview .p-tabview-panels {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  &--tr {
+    .p-tabview .p-tabview-panels,
+    .p-tabview .p-tabview-nav,
+    .p-tabview .p-tabview-nav li .p-tabview-nav-link,
+    .p-tabview .p-tabview-nav li.p-highlight .p-tabview-nav-link,
+    .p-tabview
+      .p-tabview-nav
+      li:not(.p-highlight):not(.p-disabled):hover
+      .p-tabview-nav-link {
+      background-color: transparent;
+    }
+  }
+}

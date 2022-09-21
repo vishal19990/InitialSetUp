@@ -1,0 +1,52 @@
+﻿
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES
+            WHERE TABLE_NAME = N'UserLanguages')
+BEGIN
+delete from UserLanguages
+DBCC CHECKIDENT ('UserLanguages', RESEED, 0)
+END
+
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES
+            WHERE TABLE_NAME = N'Languages')
+BEGIN
+delete from Languages
+DBCC CHECKIDENT ('Languages', RESEED, 0)
+END
+
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES
+            WHERE TABLE_NAME = N'RolePermissions')
+BEGIN
+delete from RolePermissions
+DBCC CHECKIDENT ('RolePermissions', RESEED, 0)
+END
+
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES
+            WHERE TABLE_NAME = N'Permissions')
+BEGIN
+delete from Permissions
+DBCC CHECKIDENT ('Permissions', RESEED, 0)
+END
+
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES
+            WHERE TABLE_NAME = N'UserRoles')
+BEGIN
+delete from UserRoles
+DBCC CHECKIDENT ('UserRoles', RESEED, 0)
+END
+
+
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES
+            WHERE TABLE_NAME = N'Roles')
+BEGIN
+delete from Roles
+DBCC CHECKIDENT ('Roles', RESEED, 0)
+END
+
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES
+           WHERE TABLE_NAME = N'Users')
+BEGIN
+delete from Users
+DBCC CHECKIDENT ('Users', RESEED, 0)
+END
+
+

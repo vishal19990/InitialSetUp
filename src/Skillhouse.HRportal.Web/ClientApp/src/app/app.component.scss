@@ -1,0 +1,12 @@
+@import './../assets/scss/base/colors';
+
+.app{
+    position: relative;
+    display: flex;
+    flex-flow: row nowrap;
+
+    &__body{
+        width: calc(100% - 240px);
+        float: left;
+    }
+}

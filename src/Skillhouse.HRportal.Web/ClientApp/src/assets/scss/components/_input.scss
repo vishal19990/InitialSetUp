@@ -1,0 +1,13 @@
+#{$srm}-input{
+    padding: 10px 15px;
+    height: 45px;
+    border: solid 1px #d3e9ff;
+    font-size: 14px;
+    width: 100%;
+    background-color: $c-primary--lt;
+    border-radius: 2px;
+
+    &-wrap{
+        margin-bottom: 20px;
+    }
+}

@@ -1,0 +1,18 @@
+.p-card{
+    margin-bottom: 10px;
+    background-color: #eee;
+    .p-card-header{
+        padding: 16px;
+        color: $c-primary--dk;
+        text-transform: uppercase;
+        font-weight: 600;
+
+        + .p-card-body{
+            padding-top: 0;
+        }
+    }
+
+    .p-card-body{
+        padding: 16px;
+    }
+}

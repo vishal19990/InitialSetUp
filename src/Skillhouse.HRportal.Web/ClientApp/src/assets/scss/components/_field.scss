@@ -1,0 +1,14 @@
+.field{
+    &__label{
+        font-size: 12px;
+        font-weight: 600;
+    }
+    &__data{
+        font-size: 14px;
+        border-left: solid 4px #ccc ;
+        padding: 4px 0 4px 10px ;
+
+    }
+
+    margin-bottom: 25x;
+}

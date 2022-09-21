@@ -1,0 +1,91 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 Data", "01 Data", "{48728628-8917-448F-A916-2004927EDEB6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 Common", "02 Common", "{50F65DBF-FB2E-4C70-B978-523B0336F61B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 Presentation", "03 Presentation", "{CBC37B13-074D-4976-A966-EFB6510A108B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 Business", "04 Business", "{9F7F83A2-E8A7-4B3E-A05A-6C6BA583EE4F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 Repository", "05 Repository", "{93C3B243-93C9-47B7-A63B-A519802E626A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06 Database", "06 Database", "{40B7E4A1-45AC-4239-9B89-809EB56665AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Skillhouse.HRportal.Model", "Skillhouse.HRportal.Model\Skillhouse.HRportal.Model.csproj", "{00FF3E0A-BD67-40B5-9EE4-07213AAEFB84}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Skillhouse.HRportal.Entity", "Skillhouse.HRportal.Entity\Skillhouse.HRportal.Entity.csproj", "{F5354A52-9738-4C1C-9695-D10A62EE8763}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Skillhouse.HRportal.Common", "Skillhouse.HRportal.Common\Skillhouse.HRportal.Common.csproj", "{01052F16-451E-40D9-A235-E3D0DE62BAB3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Skillhouse.HRportal.Web", "Skillhouse.HRportal.Web\Skillhouse.HRportal.Web.csproj", "{1C8B1936-1B5B-4355-A36B-FDA7D59F0A96}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Skillhouse.HRportal.Business", "Skillhouse.HRportal.Business\Skillhouse.HRportal.Business.csproj", "{CEA0ACFD-25AC-43F4-83E6-A6FD44510596}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Skillhouse.HRportal.Repository", "Skillhouse.HRportal.Repository\Skillhouse.HRportal.Repository.csproj", "{B7C33217-8CD7-46DE-A5F3-E913864C76D5}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Skillhouse.HRportal.DB", "Skillhouse.HRportal.Database\Skillhouse.HRportal.DB.sqlproj", "{DBF46CFC-3B56-465C-942D-40DBA72C5054}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skillhouse.HRportal.Core", "Skillhouse.HRportal.Core\Skillhouse.HRportal.Core.csproj", "{C1B34FF1-667F-4D96-8AD7-19D068B0B2F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00FF3E0A-BD67-40B5-9EE4-07213AAEFB84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00FF3E0A-BD67-40B5-9EE4-07213AAEFB84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00FF3E0A-BD67-40B5-9EE4-07213AAEFB84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00FF3E0A-BD67-40B5-9EE4-07213AAEFB84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5354A52-9738-4C1C-9695-D10A62EE8763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5354A52-9738-4C1C-9695-D10A62EE8763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5354A52-9738-4C1C-9695-D10A62EE8763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5354A52-9738-4C1C-9695-D10A62EE8763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01052F16-451E-40D9-A235-E3D0DE62BAB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01052F16-451E-40D9-A235-E3D0DE62BAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01052F16-451E-40D9-A235-E3D0DE62BAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01052F16-451E-40D9-A235-E3D0DE62BAB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C8B1936-1B5B-4355-A36B-FDA7D59F0A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C8B1936-1B5B-4355-A36B-FDA7D59F0A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C8B1936-1B5B-4355-A36B-FDA7D59F0A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C8B1936-1B5B-4355-A36B-FDA7D59F0A96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEA0ACFD-25AC-43F4-83E6-A6FD44510596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA0ACFD-25AC-43F4-83E6-A6FD44510596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA0ACFD-25AC-43F4-83E6-A6FD44510596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA0ACFD-25AC-43F4-83E6-A6FD44510596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7C33217-8CD7-46DE-A5F3-E913864C76D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C33217-8CD7-46DE-A5F3-E913864C76D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C33217-8CD7-46DE-A5F3-E913864C76D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C33217-8CD7-46DE-A5F3-E913864C76D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBF46CFC-3B56-465C-942D-40DBA72C5054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF46CFC-3B56-465C-942D-40DBA72C5054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF46CFC-3B56-465C-942D-40DBA72C5054}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DBF46CFC-3B56-465C-942D-40DBA72C5054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF46CFC-3B56-465C-942D-40DBA72C5054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBF46CFC-3B56-465C-942D-40DBA72C5054}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C1B34FF1-667F-4D96-8AD7-19D068B0B2F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B34FF1-667F-4D96-8AD7-19D068B0B2F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B34FF1-667F-4D96-8AD7-19D068B0B2F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B34FF1-667F-4D96-8AD7-19D068B0B2F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{00FF3E0A-BD67-40B5-9EE4-07213AAEFB84} = {48728628-8917-448F-A916-2004927EDEB6}
+		{F5354A52-9738-4C1C-9695-D10A62EE8763} = {48728628-8917-448F-A916-2004927EDEB6}
+		{01052F16-451E-40D9-A235-E3D0DE62BAB3} = {50F65DBF-FB2E-4C70-B978-523B0336F61B}
+		{1C8B1936-1B5B-4355-A36B-FDA7D59F0A96} = {CBC37B13-074D-4976-A966-EFB6510A108B}
+		{CEA0ACFD-25AC-43F4-83E6-A6FD44510596} = {9F7F83A2-E8A7-4B3E-A05A-6C6BA583EE4F}
+		{B7C33217-8CD7-46DE-A5F3-E913864C76D5} = {93C3B243-93C9-47B7-A63B-A519802E626A}
+		{DBF46CFC-3B56-465C-942D-40DBA72C5054} = {40B7E4A1-45AC-4239-9B89-809EB56665AA}
+		{C1B34FF1-667F-4D96-8AD7-19D068B0B2F7} = {50F65DBF-FB2E-4C70-B978-523B0336F61B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06576C6A-1063-410A-B0E0-6D70A38859E4}
+	EndGlobalSection
+EndGlobal

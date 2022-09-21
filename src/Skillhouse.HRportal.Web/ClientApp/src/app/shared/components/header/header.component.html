@@ -1,0 +1,16 @@
+<header class="header">
+    <div class="header__l"></div>
+    <div class="header__r">
+        <div class="header-profile">
+            <div class="header-profile__option" (click)="toggleMenu()" #menuTrigger>
+                <span class="header-profile__pic"><img src="./../../../assets/images/profile.jpeg" alt=""/></span>Hello, Bitupon Chetia
+                <i class="pi pi-angle-down ml-2"></i>
+            </div>
+            <ul class="header-profile__menu" *ngIf="isProfileMenuOpen" #menu>
+                <li><a class="header-profile__menu-lnk" [routerLink]="['/activities']">My Activities</a></li>
+                <li><a class="header-profile__menu-lnk" [routerLink]="['/resetPassword']">Reset Password</a></li>
+                <li><a class="header-profile__menu-lnk" (click)="logout()">Logout</a></li>
+            </ul>
+        </div>
+    </div>
+</header>

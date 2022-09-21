@@ -1,0 +1,150 @@
+.app__content {
+    position: relative;
+    padding: 20px;
+    background-color: #efefef;
+    height: calc(100vh - 50px);
+    overflow: auto;
+  
+    &--no-pad {
+      padding: 0;
+    }
+  
+    &--split {
+      display: grid;
+      grid-template-columns: 1fr 400px;
+    }
+    &-ttl {
+      margin: 0;
+    }
+  
+    &-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 10px;
+  
+      &-r {
+        display: flex;
+  
+        > * {
+          display: flex;
+        }
+      }
+    }
+  
+    &-body {
+    }
+  
+    &-flyout {
+      position: absolute;
+      width: 250px;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      background-color: #fff;
+      padding: 20px;
+      box-shadow: 1px -10px 10px rgba(0, 0, 0, 0.4);
+  
+      &-ttl {
+        margin: 0;
+        color: $c-primary--dk;
+      }
+  
+      &-body {
+      }
+  
+      &-lst {
+        display: grid;
+        grid-template-columns: 50% 50%;
+        grid-gap: 5px;
+  
+        .lst-itm {
+          border: solid 1px #eee;
+          padding: 10px;
+          height: 70px;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          text-align: center;
+          background-color: $c-primary;
+          color: #fff;
+          border-radius: 4px;
+          font-size: 12px;
+  
+          .pi {
+            font-size: 20px;
+            margin-bottom: 5px;
+          }
+        }
+      }
+  
+      &-close {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+      }
+    }
+  
+    &-l {
+      position: relative;
+      padding: 20px;
+      overflow: auto;
+      height: 100%;
+    }
+  
+    &-r {
+      overflow: auto;
+      padding: 20px;
+      background-color: #fff;
+      border-left: solid 1px #efefef;
+      height: 100%;
+    }
+  
+    &-aside {
+      &-ttl {
+        margin: 0 0 20px 0;
+        font-weight: 16px;
+        font-weight: 600;
+      }
+  
+      &-chart {
+        &-data {
+          border-collapse: collapse;
+          margin-top: 20px;
+          width: 100%;
+  
+          tr {
+            border-top: solid 1px #eee;
+            border-bottom: solid 1px #eee;
+  
+            &:last-child {
+              background: #aaa;
+              color: #fff;
+              font-weight: bold;
+              letter-spacing: 1px;
+              border-top: solid 1px #aaa;
+              border-bottom: solid 1px #aaa;
+            }
+          }
+  
+          td {
+            padding: 8px 20px;
+            font-size: 12px;
+          }
+  
+          .lbl {
+            text-transform: uppercase;
+          }
+  
+          .val {
+            text-align: right;
+          }
+        }
+      }
+  
+      &-body {
+      }
+    }
+  }
+  

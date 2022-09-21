@@ -1,0 +1,110 @@
+@import './../../../../assets/scss/base/colors';
+
+.header{
+    position: relative;
+    display: flex;
+    background-color: #fafafa;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    height: 50px;
+    box-shadow: 1px -1px 1px 1px rgba(0,0,0,.2);
+    padding: 0 20px;
+    border-bottom: solid 1px #efefef;
+
+    &__l{
+        
+
+    }
+
+    &__r{
+       
+    }
+
+    // &__nav{
+    //     display: flex;
+    //     align-items: center;
+    //     height: 100%;
+    //     &-itm{
+    //         position: relative;
+    //         display: flex;
+    //         align-items: center;
+    //         height: 100%;
+    //         margin-left: 20px;
+    //         color: #333;
+    //         a{
+    //             text-decoration: none;
+    //             color: #333;
+    //         }
+
+    //         &:first-child{
+    //             border-right: solid 1px #ccc;
+    //             padding-right: 20px;
+    //         }
+    //     }
+    // }
+
+    &-profile{
+        display: flex;
+        align-items: center;
+        height: 50px;
+        &__pic{
+            display: inline-block;
+            height: 30px;
+            width: 30px;
+            border: solid 1px #eee;
+            border-radius: 100%;
+            margin-right: 10px;
+            overflow: hidden;
+            img{
+                height: 100%;
+                width: 100%;
+                object-fit: cover;
+            }
+        }
+
+        &__option{
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+            height: 50px;
+            padding: 0 15px;
+            border-left: solid 1px #eee;
+            border-right: solid 1px #eee;
+            &:hover{
+                background-color: #eee;
+            }
+        }
+
+        &__menu{
+            position: absolute;
+            top: 50px;
+            right: 20px;
+            transform-origin: top;
+            z-index: 1;
+            width: 175px;
+            max-height: 400px;
+            background-color: var(--surface-f);
+            box-shadow: 0 2px 4px -1px #0003, 0 4px 5px #00000024, 0 1px 0px #0000001f;
+            overflow: auto;
+            list-style-type: none;
+            padding: 10px;
+            margin: 0;
+            border-radius: 0 0 3px 3px;
+           
+
+            &-lnk{
+                color: #444;
+                text-decoration: none;
+                padding: 8px;
+                display: block;
+                text-transform: capitalize;
+                cursor: pointer;
+                
+                &:hover{
+                    background-color: #eee;
+                }
+            }
+        }
+    }
+    
+}

@@ -1,0 +1,1104 @@
+{
+	"data": [
+		{
+			"id": "1000",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1001",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1002",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1003",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1004",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1005",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1006",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1007",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1008",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1009",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1000",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1001",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1002",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1003",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1004",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1005",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1006",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1007",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1008",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1009",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1000",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1001",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1002",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1003",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1004",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1005",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1006",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1007",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1008",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1009",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1000",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1001",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1002",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1003",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1004",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1005",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1006",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1007",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1008",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1009",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1000",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1001",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1002",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1003",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1004",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1005",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1006",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1007",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1008",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1009",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1000",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1001",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1002",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1003",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1004",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1005",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1006",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1007",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1008",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1009",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1000",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1001",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1002",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1003",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1004",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1005",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1006",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1007",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1008",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1009",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1000",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1001",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1002",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1003",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1004",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1005",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1006",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1007",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1008",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1009",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1000",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1001",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1002",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1003",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1004",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1005",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1006",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1007",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1008",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1009",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1000",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1001",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1002",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1003",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1004",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1005",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1006",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1007",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1008",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1009",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1000",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1001",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1002",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1003",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1004",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1005",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1006",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1007",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1008",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		},
+		{
+			"id": "1009",
+			"name": "Course 001",
+			"department": "Product Description",
+			"description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum ",
+			"start_date": "21/11/2020",
+			"end_date": "21/11/2021",
+			"campus": "HYD",
+			"fee": "100000"
+		}
+	]
+}
